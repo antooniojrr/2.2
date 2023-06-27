@@ -1,0 +1,41 @@
+Id. usuario del trabajo: ac441
+Id. del trabajo: 180362
+Nombre del trabajo especificado por usuario: helloOMP
+Directorio de trabajo (en el que se ejecuta el script): /home/ac441
+Cola: ac
+Nodo que ejecuta este trabajo:atcgrid.ugr.es
+Nº de nodos asignados al trabajo: 1
+Nodos asignados al trabajo: atcgrid1
+CPUs por nodo: 24
+
+real	0m0.242s
+user	0m0.009s
+sys	0m0.012s
+
+real	0m0.172s
+user	0m0.009s
+sys	0m0.011s
+
+real	0m0.291s
+user	0m0.014s
+sys	0m0.005s
+
+real	0m0.266s
+user	0m0.014s
+sys	0m0.007s
+
+real	0m0.492s
+user	0m0.009s
+sys	0m0.008s
+
+real	0m0.383s
+user	0m0.009s
+sys	0m0.008s
+
+real	0m0.419s
+user	0m0.009s
+sys	0m0.007s
+
+real	0m0.383s
+user	0m0.008s
+sys	0m0.011s

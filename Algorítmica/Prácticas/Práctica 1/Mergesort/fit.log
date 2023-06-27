@@ -1,0 +1,36 @@
+
+
+*******************************************************************************
+Mon Mar 20 11:38:15 2023
+
+
+FIT:    data read from 'mergesort_1.dat' using 1:2
+        format = x:z
+        #datapoints = 25
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a1*x*log(x)+a0
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1            a0           
+   0 4.6423680493e+19   0.00e+00  9.64e+08    1.000000e+00   1.000000e+00
+   5 5.6684910218e+01  -3.42e-06  9.64e+03    1.531923e-08   1.000000e+00
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 56.6849
+rel. change during last iteration : -3.42311e-11
+
+degrees of freedom    (FIT_NDF)                        : 23
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.56989
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.46456
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 1.53192e-08      +/- 4.615e-10    (3.012%)
+a0              = 1                +/- 0.6289       (62.89%)
+
+correlation matrix of the fit parameters:
+                a1     a0     
+a1              1.000 
+a0             -0.866  1.000 
